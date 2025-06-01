@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jackmisner
+- 👋 Hi, I’m (@jackmisner)[https://www.github.com/jackmisner] (Hooray for recursion)
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I went from managing an award-winning homebrew shop in Brooklyn to becoming a software engineer, and I'm building an app that combines both passions!
 - 👀 I’m a recent career switcher who is interested in full-stack development, data analysis and lists of exactly 3 things apparently. 
