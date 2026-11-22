@@ -1,12 +1,21 @@
-- 👋 Hi, I’m [@jackmisner](https://www.github.com/jackmisner) (Hooray for recursion)
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: I went from managing an award-winning homebrew shop in Brooklyn to becoming a software engineer, and I'm building an app that combines both passions!
-- 👀 I’m a recent career switcher who is interested in full-stack development, data analysis and lists of exactly 3 things apparently. 
-- 🌱 I’m currently learning all about non-relational databases, RESTful APIs and UX/Front-End design as I work on my full-stack homebrewing app [BrewTracker](https://www.github.com/jackmisner/brewtracker) (contributions welcome)
-- 💞️ I’m looking to collaborate on open-source projects, especially those related to data visualization, brewing/fermentation tracking, or my other hobby/passion which is record collecting.
-- 📫 How to reach me: jack.misner@gmail.com or connect with me on [LinkedIn](https://www.linkedin.com/in/jack-d-misner/). I'm always happy to chat about anything over a beer!
+# Hi, I'm Jack
 
-<!---
-jackmisner/jackmisner is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Freelance full-stack developer based in London (that's [@jackmisner](https://github.com/jackmisner), hooray for recursion). Pronouns: he/him.
+
+Before software I managed an award-winning homebrew shop in Brooklyn and worked as a data analyst. These days I build web apps, Android apps and TypeScript libraries, and I still brew.
+
+**Open to freelance work.** If you need a web app, an Android app or a hand with an existing codebase, get in touch.
+
+## What I'm building
+
+- **[BrewTracker](https://www.brewtracker.co.uk)**: a homebrewing platform with recipe versioning, fermentation tracking and a model that predicts beer characteristics from past fermentations. [Web (React + Python)](https://github.com/jackmisner/BrewTracker) · [Mobile (React Native + Expo)](https://github.com/jackmisner/BrewTrackerAndroid)
+- **[utm-toolkit](https://github.com/jackmisner/utm-toolkit)**: a TypeScript library for capturing, storing and appending UTM parameters, with a framework-agnostic core and optional React integration. On npm as [`@jackmisner/utm-toolkit`](https://www.npmjs.com/package/@jackmisner/utm-toolkit).
+- **[Kalooki](https://play.google.com/store/apps/details?id=com.kalooki)**: the classic rummy-family card game for Android, with 12 AI opponents and device-to-device multiplayer. Available on Google Play.
+
+## Stack
+
+TypeScript · React · React Native · Python · Kotlin · Android
+
+## Get in touch
+
+jack.misner@gmail.com or [LinkedIn](https://www.linkedin.com/in/jack-d-misner/). Always happy to chat about code, beer or records.
